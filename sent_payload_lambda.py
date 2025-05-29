@@ -1,7 +1,7 @@
 import requests
 
 # === Config ===
-lambda_url = "https://3tz6oqwrul5t6ks75nb57qog3u0mkqah.lambda-url.us-east-1.on.aws/"  # Your Lambda URL
+lambda_url = "URL"  # Your Lambda URL
 
 # === Files to Upload ===
 files_to_upload = [

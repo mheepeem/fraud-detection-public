@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 s3 = boto3.client("s3")
-BUCKET_NAME = "ml-dataflow-bucket"  # ← update this
+BUCKET_NAME = "BUCKET"  # ← update this
 
 def lambda_handler(event, context):
     try:
